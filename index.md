@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/symbolen/hej/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<head>
+ <meta charset="utf-8">
+ <title>Your page title here :)</title>
+ <meta name="description" content="">
+ <meta name="author" content="">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="preconnect" href="https://fonts.gstatic.com/" />
+ <link href="https://fonts.googleapis.com/css?family=Muli:400" rel="stylesheet" />
+ <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+ <link rel="stylesheet" href="skeleton.css">
+ <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+    <main>
+<div class="divider"></div>
+ <div class="skal1">
+  <div class="box1">
+   <h1>Leon Ljunghorn</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   <h2>css/js-kodare, webbutvecklare</h2>
 
-```markdown
-Syntax highlighted code block
+   <h2>0790372242</h2>
+   <h2>
+    <a href="#">leon@164.one</a>
+   </h2>
+  </div>
+  <div class="box1"> <img src="https://faroutmagazine.co.uk/static/uploads/2020/02/Iggy-Pop-1977-2.jpg"></div>
+ </div>
+<a href="#menu1"><h3>164.one</h3></a>
+</main>
+<div id="menu1"><h4>hh</h4><h4>hh</h4><h4>hh</h4></div>
+</body>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/symbolen/hej/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
